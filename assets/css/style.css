@@ -122,7 +122,7 @@ float: right;
     padding:10px;
 }
 .current span{
-    color:#027101;
+    color:#55CBD2;
 
 }
 
@@ -154,7 +154,7 @@ body {
 }
 
 a {
-    color: #027101;
+    color: ##55CBD2;
     text-decoration: none;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -524,7 +524,7 @@ footer h3 {
 }
 
 #social-icons .btn-group {
-    color: #027101;
+    color: #55CBD2;
     margin-right: 15px;
 }
 #social-icons .btn-group:hover {
